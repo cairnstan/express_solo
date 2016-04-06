@@ -1,0 +1,22 @@
+body{
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  background-color: darkslategrey;
+}
+button{
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 50px;
+  border-radius: 25px;
+  color: papayawhip;
+  background-color: #e68a1e;
+  margin: 50px;
+}
+span {
+  color: papayawhip;
+  font-size: 40px;
+}
+div{
+  margin-top: 100px;
+}
